@@ -1,5 +1,5 @@
-## makeCacheMatrix(x) turns a simple square matrix into a matrix with a 
-## cache for the value of its inverse. Calling this "matrix" with cacheSolve will either
+## makeCacheMatrix(x) returns the cache for the value of the invers of a square matrix 
+## Calling this cache with cacheSolve will either
 ## return a value for the inverse, if already calculated previously accompanied by a message stating
 ## exactly this or calculate the inverse for the first time caching the value.
 
